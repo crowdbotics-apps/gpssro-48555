@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ca7057058a29345e0d66273693ea02bc74e4b946c8a8482cc69385106d993f46"
+            "sha256": "d279ca7e77ae22afefc9239349635e9cd6252c5e220bcd250c75dee40f070ce7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -107,6 +107,10 @@
         "cb-django-ocr": {
             "editable": true,
             "path": "./modules/django_ocr"
+        },
+        "cb-django-typeform-webhook": {
+            "editable": true,
+            "path": "./modules/django_typeform_webhook"
         },
         "certifi": {
             "hashes": [
@@ -384,6 +388,13 @@
             ],
             "index": "pypi",
             "version": "==4.1.0"
+        },
+        "django-jsonfield": {
+            "hashes": [
+                "sha256:ccb2fe623e1bf7799e49c593b0a89a85084ef8d3debbf26d92a54e27b5305d72",
+                "sha256:f789a0ea1f80b48aff7d6c36dd356ce125dbf1b7cd97a82d315607ac758f50ff"
+            ],
+            "version": "==1.4.1"
         },
         "django-storages": {
             "hashes": [

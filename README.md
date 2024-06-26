@@ -74,6 +74,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-core](backend/modules)
 - [django-disqus](backend/modules)
 - [django-ocr](backend/modules)
+- [django-typeform-webhook](backend/modules)
 
 # Getting started: Frontend
 
