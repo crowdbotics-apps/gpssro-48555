@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-photo-editing](modules/photo-editing)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [django-files](backend/modules)
+- [django-calendly](backend/modules)
 
 # Getting started: Frontend
 
